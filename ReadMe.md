@@ -1,4 +1,4 @@
-#Multi Threaded WEB SERVER
+# Multi Threaded Web Server
 
 ## Description
 This project, "WebServer.java," is a simple Java-based web server that serves static web content over HTTP. The server supports hosting static files such as HTML, images (JPEG, PNG, GIFs), and can handle HTTP GET requests from clients. Users can access web content through their browsers by navigating to `localhost:<PortNumber>`.
